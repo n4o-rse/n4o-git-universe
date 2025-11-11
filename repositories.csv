@@ -1,2 +1,2 @@
-name,link,group,organisation,maintainer,subjects
-"git-overview","https://github.com/n4o-rse/git-overview","https://github.com/n4o-rse/","CC RSE NFDI4Objects","Florian Thiery, Lutz Schubert","catalogue"
+name,link,group,organisation,maintainer,subjects,cff
+"git-overview","https://github.com/n4o-rse/git-overview","https://github.com/n4o-rse/","CC RSE NFDI4Objects","Florian Thiery, Lutz Schubert","catalogue","https://github.com/n4o-rse/git-overview/blob/main/CITATION.cff"
